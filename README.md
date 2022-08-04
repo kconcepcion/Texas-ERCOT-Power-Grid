@@ -1,19 +1,19 @@
-Project Proposal Requirements: (taken from thursday's class powerpoint)
-Project Title : Texas ERCOT - Power Grid Analysis
-Team Members 
+#Project Proposal Requirements:
+#Project Title : Texas ERCOT - Power Grid Analysis
+##Team Members 
 Paul Schnase
 Ariana Garcia
 Loraine Gomez
 Jasmine Leal
 Kristal Concepcion
-Project Description/Outline 
-Intro - Right now Texans rely too heavily on the ERCOT power grid that has failed them too many times. Our goal is to convince Texans to be in support of leaving this faulty grid and join the US National power grid. To achieve this goal we will employ data regarding power outages, electricity usage, historical temperatures and average cost. 
+##Project Description/Outline 
+###Intro - Right now Texans rely too heavily on the ERCOT power grid that has failed them too many times. Our goal is to convince Texans to be in support of leaving this faulty grid and join the US National power grid. To achieve this goal we will employ data regarding power outages, electricity usage, historical temperatures and average cost. 
 We will provide some background to explain why texas is separate from the rest of the country 
 Show that the areas we are comparing have similar temperature stats
 Explain what a rolling blackout is
 We will also include a short description summarizing our data’s limitations
-Conclusion - After reviewing data we provided it is clear to see how unstable the ERCOT power grid is and how it has failed Texans.
-Research Questions to Answer 
+###Conclusion - After reviewing data we provided it is clear to see how unstable the ERCOT power grid is and how it has failed Texans.
+##Research Questions to Answer 
 Will temperatures continue to rise as time goes on? (thereby meeting ercots standards for more energy regulation)
 What types of cities/areas had longer/more frequently rolling blackouts?
 When did these blackouts start occuring? And how often do they take place?
