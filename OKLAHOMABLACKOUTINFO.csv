@@ -1,7 +1,7 @@
-﻿Area Affected,Event Type,Demand Loss (MW)
-Arkansas: Louisiana: Texas: Oklahoma:,Severe Weather,461
-North Dakota: South Dakota: Nebraska: Kansas: Oklahoma: Texas:,Severe Weather,3000
-Oklahoma:,Severe Weather,Unknown
-Oklahoma:,Fuel Supply Deficiency,0
-Oklahoma:,Severe Weather,350
-Oklahoma: Kay County;,Fuel Supply Deficiency,0
+﻿Area Affected,Event Type,Demand Loss (MW),Number of Customers Affected
+Arkansas: Louisiana: Texas: Oklahoma:,Severe Weather,461,Unknown
+North Dakota: South Dakota: Nebraska: Kansas: Oklahoma: Texas:,Severe Weather,3000,125484
+Oklahoma:,Severe Weather,Unknown,Unknown
+Oklahoma:,Fuel Supply Deficiency,0,0
+Oklahoma:,Severe Weather,350,Unknown
+Oklahoma: Kay County;,Fuel Supply Deficiency,0,200000
