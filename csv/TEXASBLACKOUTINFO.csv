@@ -1,0 +1,48 @@
+﻿Area Affected,NERC Region,Alert Criteria,Event Type,Demand Loss (MW),Number of Customers Affected
+Texas: Kleberg County;,TRE,"Unexpected Transmission loss within its area, contrary to design, of three or more Bulk Electric System Facilities caused by a common disturbance (excluding successful automatic reclosing).",Transmission Interruption,13,6102
+Texas: Cameron County;,TRE,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Suspicious Activity,0,0
+Texas:,TRE,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,Unknown,2000000
+Texas:,TRE,Fuel supply emergencies that could impact electric power system adequacy or reliability.,Fuel Supply Deficiency,Unknown,Unknown
+Texas:,TRE,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,Unknown,Unknown
+Texas:,TRE,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,7214,Unknown
+Texas:,TRE,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,Unknown,Unknown
+Arkansas: Louisiana: Texas: Oklahoma:,SERC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,461,125484
+North Dakota: South Dakota: Nebraska: Kansas: Oklahoma: Texas:,MRO,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,3000,Unknown
+"Texas: Hidalgo County, Cameron County;",TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,Unknown,Unknown
+Texas: Harris County;,TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,4966,1390000
+Texas: Travis County;,TRE,Complete loss of monitoring or control capability at its staffed Bulk Electric System control center for 30 continuous minutes or more.,System Operations,0,0
+Texas:,TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,500,Unknown
+Texas:,TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,300,Unknown
+Texas:,TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,Unknown,175000
+Texas:,TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,524,Unknown
+Texas:,TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,7214,Unknown
+Texas: Travis County;,TRE,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,Unknown,219306
+Texas: Travis County;,TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,724,Unknown
+Texas: Bexar County;,TRE,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,Unknown,154000
+Texas:,TRE,"Total generation loss, within one minute of: greater than or equal to 2,000 Megawatts in the Eastern or Western Interconnection or greater than or equal to 1,400 Megawatts in the ERCOT Interconnection.",Severe Weather,Unknown,Unknown
+Texas:,TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,Unknown,Unknown
+Texas: Lubbock County;,TRE,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,116,29942
+Texas:,TRE,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,Unknown,Unknown
+Texas:,TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,800,Unknown
+Texas: Arkansas:,TRE,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,Unknown,Unknown
+"Texas: Austin County, Bastrop County, Burleson County, Caldwell County, Colorado County, Fayette County, Gonzales County, Guadalupe County, Hays County, Lee County, Milam County, Travis County, Washington County, Williamson County;",TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,107,25000
+Texas:,TRE,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,Unknown,Unknown
+Texas:,TRE,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,360,72000
+Texas: Randall County;,TRE,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,0,0
+Texas:,TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,300,Unknown
+Texas:,TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,500,Unknown
+Texas: Travis County;,TRE,Unplanned evacuation from its Bulk Electric System control center facility for 30 continuous minutes or more.,System Operations,0,0
+Texas:,TRE,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Fuel Supply Deficiency,Unknown,Unknown
+Texas:,TRE,Unplanned evacuation from its Bulk Electric System control center facility for 30 continuous minutes or more.,System Operations,0,0
+Louisiana: Texas: Illinois:,SERC,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,1420,Unknown
+Louisiana: Arkansas: Texas: Mississippi:,SERC,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,700,Unknown
+Texas:,TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,538,Unknown
+Texas:,TRE,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,168,840000
+New Jersey: Pennsylvania: Texas: California: Illinois: Colorado:,RF,Cyber event that could potentially impact electric power system adequacy or reliability.,Cyber Event,Unknown,0
+Louisiana: Texas:,SERC,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,402,Unknown
+Texas:,TRE,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,300,Unknown
+Texas:,TRE,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,Unknown,Unknown
+Texas: Travis County;,TRE,Complete loss of monitoring or control capability at its staffed Bulk Electric System control center for 30 continuous minutes or more.,System Operations,0,0
+Louisiana: Texas:,SERC,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,402,Unknown
+Texas:,TRE,Cyber event that causes interruptions of electrical system operations.,Cyber Event,Unknown,0
+Texas:,TRE,Complete loss of monitoring or control capability at its staffed Bulk Electric System control center for 30 continuous minutes or more.,System Operations,0,0
