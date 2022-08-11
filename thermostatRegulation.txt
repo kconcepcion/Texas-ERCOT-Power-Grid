@@ -1,4 +1,6 @@
 resources:
+Fort Worth Star-Telegram article on thermostat changing by utility companies
 https://www.star-telegram.com/news/local/fort-worth/article263431963.html
+CPS Energy's thermostat changing program webpage
 https://www.cpsenergy.com/en/my-home/savenow/my-thermostat-rewards.html
 
