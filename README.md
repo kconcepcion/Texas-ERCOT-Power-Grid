@@ -1,10 +1,9 @@
 # Presentation Anaylsis script
-Jasmine / Intro :
-#slide one: title page
+## Introduction
 For our group project we decided to do an analysis on the Texas ERCOT power grid: our null hypothesis is to prove why Texas’ independent power grid (ERCOT) is reliable and performs to acceptable levels based on its responses with the black outs rates, price averages, and energy usage.  
-# Slide two :Team members
+## Team members
 Our Team members consist of  Loraine who will go over ERCOT’s history, I personally will be going over the evaluation on energy consumption, Ariana will discuss cost comparison, Paul will touch on power grids strains, and Kristal will cover the winter freeze response. 
-# Slide Three : introduction slide of ERCOT and Shared grids
+## ERCOT and Shared grids
 Right now Texas current power grid is ERCOT (Electric Reliability Council of Texas) this power grid has failed their residents numerous times. Which is why Our goal is to convince Texans to be in support of leaving this faulty grid and join a shared power grid such as the Eastern or  Western interconnection grids. To achieve this goal we will employ data regarding power outages, electricity consumption, historical temperatures and average cost. 
 
 I will now be giving a quick breakdown of the US national power grid and how it is divided,
@@ -19,9 +18,7 @@ Lastly  you have the eastern interconnection which is the right side colored in 
 
 Eastern Interconnection power grid:  Reaches from Central Canada eastward to the Atlantic coast (excluding Quebec), then goes south to Florida, and back to the western Great Plains (excluding most of Texas). This grid is similar to the western interconnection because   All of the electric utilities in this power grid are electrically tied together during normal system conditions and operate at a synchronized frequency as well.
 
- Loraine will now be going over the history of texas power grid
-
-# Slide four: History Of Texas Power Grid- Loraine 
+## History Of Texas Power Gri
  The US is divided into three interconnections: Eastern, Western, and ERCOT. 
 
 Texas is unique when it comes to their interconnection, it operates its own system with full regulatory authority and responsibility for generation and transmission.Going back to 1907, electricity was seen as an essential service. Since it’s seen as a necessity, states have  decided to regulate power companies. This regulation allowed the state to tell power companies where they can operate and how much they can charge for electric service. This provided fairness to customers and placed a limit on monopolies.
@@ -36,7 +33,7 @@ In present day, Texas is still operating its own power grid. The grid is called 
 
 Now Paul is going to talk about the Power Grid Strains
 
-# Slide Six/Summer weather grid strains-  Paul
+## Six/Summer weather grid strains
 
 In places with warmer climates, such as Texas, peak demand for electricity often happens in summer.  This is caused by wide-spread use of air conditioning, which is a large fraction of home energy usage and coincides with the time that most people are awake and using power for other purposes.  For example, yesterday, according to ERCOT’s online dashboard, the minimum power usage was around 48.5 GW a bit before 5 am, while the maximum power usage amounted to over 74 gigawatts at around 4 pm as shown on the graph.  Peak demand was about 52% higher than minimum demand, just on the same day.Traditionally, electric companies have handled this by building enough electrical generation capacity for what they estimate peak usage to be.  This can get pretty expensive, as each megawatt produced by the power companies costs more to produce than the last, and there are significant costs associated with turning on a power plant when it is offline.  Additionally, there are costs associated with building power generation that only gets used a few times per year and that doesn’t generate revenue most of the time.  All of these costs tend to be passed on to consumers of electricity. 
 
@@ -44,7 +41,7 @@ The opposite approach is to try to decrease peak demand to match the amount of e
 
 Kristal will be talking about the winter freeze.
 
-# Slide Seven  Blackouts/Winter Freeze - Kristal
+## Blackouts/Winter Freeze
 
 For many Texans the winter freeze was a wake up call that showed everyone how unchecked ERCOT is
 
@@ -57,7 +54,7 @@ After all this the question arose, how did this happen, especially if Texas is o
 
 Now Jasmine is going to talk about energy consumption 
 
-# Slide Eleven/ Energy Consumption -Jasmine
+## Energy Consumption
 
 The  Energy consumption Evaluation Is based off of the amount of energy used in 2020 for TX, OK, and NM
 
@@ -67,17 +64,17 @@ Now in the easterm interconnection you will see a similar trend in energy consum
 
 Ariana will now be go over the cost comparison
 
-# Slide 14 / Cost Comparison-Ariana
+## Cost Comparison
 
 Here we are comparing the total monthly energy bills for Texas, Arizona, and New Mexico. The reason we chose Arizona and New Mexico is because Arizona and New Mexico have similar weather conditions and temperatures to Texas.  As you can see the total energy cost for Texas is $416 and monthly electricity cost is $154. For New Mexico the total energy cost is $377, and the monthly electricity cost is $99. And for Arizona the total energy cost is $403, and the monthly electricity cost is $150. The total energy cost does include the cost for electricity, natural gas, motor fuel and home heating oil. So, in Texas as you can see, our cost for Energy and Electricity is more expensive. 
 
  We did break down the average electricity bills by state and city for this year. We chose 6 cities in each Texas, Oklahoma, and New Mexico. We chose Oklahoma for this because Oklahoma has similar weather conditions as north Texas does. For Texas we chose Dallas, Houston, San Antonio, Corpus Christi, Lubbock, and Midland. Based on ERCOT data for these 6 cities the average household uses about 1490 kilowatts per hour and the average cost for the kilowatts per hour is 12¢, which makes the monthly electricity bill about $184/month. For Oklahoma we chose Oklahoma City, Tulsa, Norman, Broken Arrow, Edmond, and Lawton. Based on EIA data for these 6 cities the average household uses about 797 kilowatts per hour and the average cost for the kilowatts per hour is 14¢, which makes the monthly electricity bill about $111 / month. For New Mexico we chose Albuquerque, Las Cruces, Rio Rancho, Santa Fe, Roswell, and Farmington.  Based on EIA data for these 6 cities the average household uses about 1430 kilowatts per hour and the average cost for the kilowatts per hour is 13¢, which makes the monthly electricity bill about $160 / month. This data shows that we as Texans pay more on average per month compared to our neighboring states and by switching to the national grid our prices for electricity would decrease. 
 
 
-# Slide Seventeen /Conclusion - Ariana
+## SConclusion
 So, in the beginning we started by wanting to disprove the idea that ERCOT is reliable and performs to acceptable levels based on price averages, energy usage, and black out rates. During our analysis we showed how ERCOT regulates homeowners' thermostats, denies people electricity when they need it the most and takes advantage of customers by charging higher electricity bills than the states surrounding us. All of these things highlight the true extent of how ERCOT has been abusing their freedom that they gained by being independent from the rest of the country. It is time that Texas joins the US national power grid and allows Texans the opportunity to get fair and reliable energy.
 
-# Resources
+## Resources
 https://quickelectricity.com/texas-power-grid/
 https://www.kaggle.com/code/jscharbach/wind-energy-and-texas-outages
 https://www.ncei.noaa.gov/cdo-web/search
@@ -100,7 +97,7 @@ https://stacker.com/new-mexico/see-how-many-power-outages-new-mexico-has-experie
 https://www.kut.org/energy-environment/2021-07-22/texas-electric-grid-february-blackouts-the-disconnect
 
 
-# Potential Questions:
+## Potential Questions:
 -How would you propose Texas go to the main grid?
 	-The logistics would probably have to be arranged between texas and EIA officials, but the idea would be that, the us power grid representatives would come in and do a whole over haul of our system. Evaluate what can be used/replaced and connect our current system to the main. Basically we want the same quality control as the rest of the country, and we want people to be held accountable for the types of problems that we mentioned. As things are right now there are no checks and balances with ERCOT considering they essentially have the monopoly on texas energy. However the specifics would probably need to be sorted out via professionals
 
